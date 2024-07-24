@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://t.me/AABenzino" target="_blank"><img align="center" src="./icons/telegram-color.svg" height="30" width="40" alt="Telegram"/> </a>
- <a href="mailto: aabenzino@gmail.com"> <img align="center" src="./icons/gmail-color.svg" width="40" height="30" alt="Email"/> </a>
- <a href="https://www.linkedin.com/in/" target="_blank"><img align="center" src="./icons/linkedin-color.svg" height="30" width="40" alt="LinkedIn"/> </a>
+<a href="https://t.me/AABenzino" title="Telegram" target="_blank"><img align="center" src="./icons/telegram-color.svg" height="30" width="40" alt="Telegram"/></a>
+<a href="mailto: aabenzino@gmail.com" title="Email"><img align="center" src="./icons/gmail-color.svg" width="40" height="30" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/" title="LinkedIn" target="_blank"><img align="center" src="./icons/linkedin-color.svg" height="30" width="40" alt="LinkedIn"/></a>
 </p>
 
 <hr>
