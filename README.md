@@ -34,6 +34,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="./icons/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border: none;"/></a>
 </p>
 
+<h3 align="left">Databases:</h3>
+<p align="left">
+<a href="https://www.postgresql.org" title="PostgreSQL" target="_blank"><img src="./icons/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="border: none;"/></a>
+<a href="https://www.mongodb.com" title="MongoDB" target="_blank"><img src="./icons/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="border: none;"/></a>
+<a href="https://www.redis.io" title="Redis" target="_blank"><img src="./icons/redis-original.svg" alt="Redis" width="40" height="40" style="border: none;"/></a>
+</p>
 
 <!---
 - 👋 Hi, I’m @Benzogang-Tape
