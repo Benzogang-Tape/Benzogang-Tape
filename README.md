@@ -17,13 +17,15 @@
 <p align="left">
 <a href="https://t.me/AABenzino" title="Telegram" target="_blank"><img align="center" src="./icons/telegram-color.svg" height="30" width="40" alt="Telegram"/></a>
 <a href="mailto: aabenzino@gmail.com" title="Email"><img align="center" src="./icons/gmail-color.svg" width="40" height="30" alt="Email"/></a>
-<a href="https://linkedin.com/in/" title="**LinkedIn**" target="_blank"><img align="center" src="./icons/linkedin-color.svg" height="30" width="40" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/" title="<b>LinkedIn</b>" target="_blank"><img align="center" src="./icons/linkedin-color.svg" height="30" width="40" alt="LinkedIn"/></a>
 </p>
 
 <hr>
 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Benzogang-Tape&theme=dark" alt="Benzogang-Tape" />
+
 <h3 align="left">Languages:</h3>
-<p align="left"> 
+<p align="left">
 <a href="https://go.dev" title="Go" target="blank"><img src="./icons/gopher.svg" alt="Golang" width="40" height="40" style="border: none;"/></a>
 <a href="https://cppreference.com" title="C++" target="_blank"><img src="./icons/cplusplus-original.svg" alt="C++" width="40" height="40" style="border: none;"/></a>
 <a href="https://python.org" title="Python" target="_blank"><img src="./icons/python-original.svg" alt="Python" width="40" height="40" style="border: none;"/></a>
@@ -40,6 +42,9 @@
 <a href="https://mongodb.com" title="MongoDB" target="_blank"><img src="./icons/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="border: none;"/></a>
 <a href="https://redis.io" title="Redis" target="_blank"><img src="./icons/redis-original.svg" alt="Redis" width="40" height="40" style="border: none;"/></a>
 </p>
+
+<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api?username=Benzogang-Tape&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Benzogang-Tape" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Benzogang-Tape&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Benzogang-Tape" />
 
 <h3 align="left">Tools/Technology:</h3>
 <p align="left">
@@ -62,6 +67,15 @@
 <a href="https://jetbrains.com/go" title="Goland" target="_blank"><img src="./icons/goland-original.svg" alt="Goland" width="40" height="40" style="border: none;"/></a>
 <a href="https://code.visualstudio.com" title="VSCode" target="_blank"><img src="./icons/vscode-original.svg" alt="VSCode" width="40" height="40" style="border: none;"/></a>
 </p>
+
+
+<h3 align="left">Stats:</h3>
+<p>
+<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api?username=Benzogang-Tape&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Benzogang-Tape" />
+<img align="center" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Benzogang-Tape&theme=dark" alt="Benzogang-Tape" />
+<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Benzogang-Tape&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Benzogang-Tape" />
+</p>
+
 
 <!---
 - 👋 Hi, I’m @Benzogang-Tape
