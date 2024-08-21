@@ -5,7 +5,7 @@
 
 * <h3 align="left">Backend Developer</h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru" title="Bauman Moscow State Technical University">BMSTU</a> Student ICS5(2nd year)</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru" title="Bauman Moscow State Technical University">BMSTU</a> Student ICS5(3rd year)</h3>
 
 * <h3 align="left">Core stack: Golang</br>Mainly focused on Backend & DevOps.</h3>
 
