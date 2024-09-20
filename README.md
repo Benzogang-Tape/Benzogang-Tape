@@ -56,10 +56,10 @@
 <a href="https://git-scm.com" title="Git" target="_blank"><img src="./icons/git-original.svg" alt="Git" width="40" height="40" style="border: none;"/></a>
 <a href="https://docker.com" title="Docker" target="_blank"><img src="./icons/docker-original.svg" alt="Docker" width="40" height="40" style="border: none;"/></a>
 <a href="https://grpc.io" title="gRPC" target="_blank"><img src="./icons/grpc-original.svg" alt="gRPC" width="40" height="40" style="border: none;"/></a>
-<a href="https://postman.com" title="Postman" target="_blank"><img src="./icons/postman-original.svg" alt="Postman" width="40" height="40" style="border: none;"/></a>
-<a href="https://swagger.io" title="Swagger" target="_blank"><img src="./icons/swagger-original.svg" alt="Swagger" width="40" height="40" style="border: none;"/></a>
-<a href="https://kafka.apache.org" title="Kafka" target="_blank"><img src="./icons/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="border: none;"/></a>
 <a href="https://rabbitmq.com" title="RabbitMQ" target="_blank"><img src="./icons/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40" style="border: none;"/></a>
+<a href="https://kafka.apache.org" title="Kafka" target="_blank"><img src="./icons/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="border: none;"/></a>
+<a href="https://swagger.io" title="Swagger" target="_blank"><img src="./icons/swagger-original.svg" alt="Swagger" width="40" height="40" style="border: none;"/></a>
+<a href="https://postman.com" title="Postman" target="_blank"><img src="./icons/postman-original.svg" alt="Postman" width="40" height="40" style="border: none;"/></a>
 <a href="https://jwt.io" title="JWT" target="_blank"><img src="./icons/jwt_logo.svg" alt="JWT" width="40" height="40" style="border: none;"/></a></br>
 <a href="https://www.djangoproject.com" title="Django" target="_blank"><img src="./icons/django-plain.svg" alt="Django" width="40" height="40" style="border: none;"/></a>
 <a href="https://www.sfml-dev.org" title="SFML" target="_blank"><img src="./icons/sfml-icon.svg" alt="SFML" width="40" height="40" style="border: none;"/></a>
