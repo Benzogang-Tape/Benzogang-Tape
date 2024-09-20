@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Leonid <img src="./icons/twitter-verified-badge-svgrepo-com.svg" align="top" height="25" alt="verified"/></h1>
+<h1 align="center">Hi there👋, I'm Leonid <img src="./icons/twitter-verified-badge-svgrepo-com.svg" align="top" height="25" alt="verified"/></h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Benzogang-Tape&label=Profile%20views&color=0e75b6&style=flat" alt="Benzogang-Tape" /></p>
 
 
 * <h3 align="left">Backend Developer</h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru" title="Bauman Moscow State Technical University">BMSTU</a> Student ICS5(2nd year)</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru" title="Bauman Moscow State Technical University">BMSTU</a> Student ICS5(3rd year)</h3>
 
 * <h3 align="left">Core stack: Golang</br>Mainly focused on Backend & DevOps.</h3>
 
