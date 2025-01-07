@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Leonid <img src="./icons/twitter-verified-badge-svgrepo-com.svg" align="top" height="25" alt="verified"/></h1>
+<h1 align="center">Hi there👋, I'm Leonid <a href="https://t.me/AABenzino" target="blank"><img src="./icons/twitter-verified-badge-svgrepo-com.svg" align="top" height="25" alt="verified"/></a></h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Benzogang-Tape&label=Profile%20views&color=0e75b6&style=flat" alt="Benzogang-Tape" /></p>
 
@@ -32,14 +32,17 @@
 <a href="https://cppreference.com" title="C++" target="_blank"><img src="./icons/cplusplus-original.svg" alt="C++" width="40" height="40" style="border: none;"/></a>
 <a href="https://python.org" title="Python" target="_blank"><img src="./icons/python-original.svg" alt="Python" width="40" height="40" style="border: none;"/></a>
 <a href="https://cprogramming.com" title="C" target="_blank"><img src="./icons/c-original.svg" alt="C" width="40" height="40" style="border: none;"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp" title="C#" target="_blank"><img src="./icons/csharp-original.svg" alt="Csharp" width="40" height="40" style="border: none;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="./icons/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border: none;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="./icons/html5-original.svg" alt="HTML5" width="40" height="40" style="border: none;"/></a>
 <a href="https://w3schools.com/css" title="CSS" target="_blank"><img src="./icons/css3-original.svg" alt="CSS3" width="40" height="40" style="border: none;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="./icons/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border: none;"/></a>
+
+[//]: # (<a href="https://learn.microsoft.com/en-us/dotnet/csharp" title="C#" target="_blank"><img src="./icons/csharp-original.svg" alt="Csharp" width="40" height="40" style="border: none;"/></a>)
 </p>
 
 <h3 align="left">Databases</h3>
 <p align="left">
+<a href="https://www.sqlite.org" title="SQLite" target="_blank"><img src="./icons/sqlite-original.svg" alt="SQLite" width="40" height="40" style="border: none;"/></a>
+<a href="https://www.mysql.com" title="MySQL" target="_blank"><img src="./icons/mysql-original.svg" alt="MySQL" width="40" height="40" style="border: none;"/></a>
 <a href="https://postgresql.org" title="PostgreSQL" target="_blank"><img src="./icons/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="border: none;"/></a>
 <a href="https://mongodb.com" title="MongoDB" target="_blank"><img src="./icons/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="border: none;"/></a>
 <a href="https://redis.io" title="Redis" target="_blank"><img src="./icons/redis-original.svg" alt="Redis" width="40" height="40" style="border: none;"/></a>
@@ -53,23 +56,33 @@
 <h3 align="left">Tools/Technology</h3>
 <p align="left">
 <a href="https://linux.org" title="GNU/Linux" target="_blank"><img src="./icons/linux-original.svg" alt="GNU/Linux" width="40" height="40" style="border: none;"/></a>
-<a href="https://git-scm.com" title="Git" target="_blank"><img src="./icons/git-original.svg" alt="Git" width="40" height="40" style="border: none;"/></a>
 <a href="https://docker.com" title="Docker" target="_blank"><img src="./icons/docker-original.svg" alt="Docker" width="40" height="40" style="border: none;"/></a>
 <a href="https://grpc.io" title="gRPC" target="_blank"><img src="./icons/grpc-original.svg" alt="gRPC" width="40" height="40" style="border: none;"/></a>
 <a href="https://rabbitmq.com" title="RabbitMQ" target="_blank"><img src="./icons/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40" style="border: none;"/></a>
 <a href="https://kafka.apache.org" title="Kafka" target="_blank"><img src="./icons/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="border: none;"/></a>
+<a href="https://grafana.com" title="Grafana" target="_blank"><img src="./icons/grafana-original.svg" alt="Grafana" width="40" height="40" style="border: none;"/></a>
+<a href="https://prometheus.io" title="Prometheus" target="_blank"><img src="./icons/prometheus-original.svg" alt="Prometheus" width="40" height="40" style="border: none;"/></a>
+<a href="https://nginx.org" title="Nginx" target="_blank"><img src="./icons/nginx-original.svg" alt="Nginx" width="40" height="40" style="border: none;"/></a>
+<a href="https://min.io" title="MinIO" target="_blank"><img src="./icons/minio-original.svg" alt="MinIO" width="40" height="40" style="border: none;"/></a>
+<a href="https://docs.github.com/en/actions" title="GitHub Actions" target="_blank"><img src="./icons/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" style="border: none;"/></a></br>
+<a href="https://jwt.io" title="JWT" target="_blank"><img src="./icons/jwt_logo.svg" alt="JWT" width="40" height="40" style="border: none;"/></a>
+<a href="https://www.openapis.org" title="OpenAPI" target="_blank"><img src="./icons/openapi-original.svg" alt="OpenAPI" width="40" height="40" style="border: none;"/></a>
 <a href="https://swagger.io" title="Swagger" target="_blank"><img src="./icons/swagger-original.svg" alt="Swagger" width="40" height="40" style="border: none;"/></a>
+<a href="https://git-scm.com" title="Git" target="_blank"><img src="./icons/git-original.svg" alt="Git" width="40" height="40" style="border: none;"/></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="./icons/bash-original.svg" alt="Bash" width="40" height="40" style="border: none;"/></a>
 <a href="https://postman.com" title="Postman" target="_blank"><img src="./icons/postman-original.svg" alt="Postman" width="40" height="40" style="border: none;"/></a>
-<a href="https://jwt.io" title="JWT" target="_blank"><img src="./icons/jwt_logo.svg" alt="JWT" width="40" height="40" style="border: none;"/></a></br>
+<a href="https://about.gitlab.com" title="GitLab" target="_blank"><img src="./icons/gitlab-original.svg" alt="GitLab" width="40" height="40" style="border: none;"/></a>
 <a href="https://www.djangoproject.com" title="Django" target="_blank"><img src="./icons/django-plain.svg" alt="Django" width="40" height="40" style="border: none;"/></a>
 <a href="https://www.sfml-dev.org" title="SFML" target="_blank"><img src="./icons/sfml-icon.svg" alt="SFML" width="40" height="40" style="border: none;"/></a>
 <a href="https://cmake.org" title="CMake" target="_blank"><img src="./icons/cmake-original.svg" alt="CMake" width="40" height="40" style="border: none;"/></a>
-<a href="https://getbootstrap.com" title="Bootstrap" target="_blank"><img src="./icons/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="border: none;"/></a>
-<a href="https://about.gitlab.com" title="GitLab" target="_blank"><img src="./icons/gitlab-original.svg" alt="GitLab" width="40" height="40" style="border: none;"/></a>
-<a href="https://docs.github.com/en/actions" title="GitHub Actions" target="_blank"><img src="./icons/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" style="border: none;"/></a>
-<a href="https://atlassian.com/software/jira" title="Jira" target="_blank"><img src="./icons/jira-original.svg" alt="Jira" width="40" height="40" style="border: none;"/></a>
-<a href="https://jetbrains.com/go" title="Goland" target="_blank"><img src="./icons/goland-original.svg" alt="Goland" width="40" height="40" style="border: none;"/></a>
-<a href="https://code.visualstudio.com" title="VSCode" target="_blank"><img src="./icons/vscode-original.svg" alt="VSCode" width="40" height="40" style="border: none;"/></a>
+
+[//]: # (<a href="https://atlassian.com/software/jira" title="Jira" target="_blank"><img src="./icons/jira-original.svg" alt="Jira" width="40" height="40" style="border: none;"/></a>)
+
+[//]: # (<a href="https://getbootstrap.com" title="Bootstrap" target="_blank"><img src="./icons/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="border: none;"/></a>)
+
+[//]: # (<a href="https://jetbrains.com/go" title="Goland" target="_blank"><img src="./icons/goland-original.svg" alt="Goland" width="40" height="40" style="border: none;"/></a>)
+
+[//]: # (<a href="https://code.visualstudio.com" title="VSCode" target="_blank"><img src="./icons/vscode-original.svg" alt="VSCode" width="40" height="40" style="border: none;"/></a>)
 </p>
 
 <!--
