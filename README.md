@@ -5,11 +5,11 @@
 
 * <h3 align="left">Backend Developer</h3>
 
+* <h3 align="left">Core stack: Golang</br>Mainly focused on Backend & DevOps</h3>
+
 * <h3 align="left"><a href="https://www.bmstu.ru" title="Bauman Moscow State Technical University">BMSTU</a> Student ICS5(3rd year)</h3>
 
-* <h3 align="left">Core stack: Golang</br>Mainly focused on Backend & DevOps.</h3>
-
-* <h3 align="left">Interested in Blockchain & DeFi</h3>
+[//]: # (* <h3 align="left">Interested in Blockchain & DeFi</h3>)
 
 * <h3 align="left">I am open to getting involved in new interesting projects. Please write to the contacts above. I will be glad to any acquaintances and suggestions)</h3>
 
@@ -29,10 +29,10 @@
 <h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://go.dev" title="Go" target="blank"><img src="./icons/gopher.svg" alt="Golang" width="40" height="40" style="border: none;"/></a>
-<a href="https://cppreference.com" title="C++" target="_blank"><img src="./icons/cplusplus-original.svg" alt="C++" width="40" height="40" style="border: none;"/></a>
 <a href="https://python.org" title="Python" target="_blank"><img src="./icons/python-original.svg" alt="Python" width="40" height="40" style="border: none;"/></a>
 <a href="https://cprogramming.com" title="C" target="_blank"><img src="./icons/c-original.svg" alt="C" width="40" height="40" style="border: none;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="./icons/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border: none;"/></a>
+<a href="https://cppreference.com" title="C++" target="_blank"><img src="./icons/cplusplus-original.svg" alt="C++" width="40" height="40" style="border: none;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="./icons/html5-original.svg" alt="HTML5" width="40" height="40" style="border: none;"/></a>
 <a href="https://w3schools.com/css" title="CSS" target="_blank"><img src="./icons/css3-original.svg" alt="CSS3" width="40" height="40" style="border: none;"/></a>
 
